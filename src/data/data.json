@@ -1,0 +1,149 @@
+{
+  "Header": {
+    "title": "IT Services for SME",
+    "paragraph": "We look after the IT systems your business depends on for success. Providing the critical balance of cost effective solutions while staying ahead of advancing technology. "
+  },
+  "About": {
+    "paragraph": "For the past 2 years, TahAmit Outsourcing Solutions has looked after our client's IT needs so they can focus on building their business. Our methodology is simple - we listen, we deliver, we care and we are here to support you. As your trusted advisor, we will help you make the right IT investment decisions. As your IT solution partner, we will plan and roll out the IT systems that power your business. As your managed services provider, we'll take care of your IT systems, network, cloud and security with a package that meets your budget. And our team is simply a phone call away when you need our help. In short, we make IT work for you.",
+    "Why": [
+      "Secure and Stable Networks",
+      "Quality Service",
+      "Technology Leadership",
+      "Predictable IT Expenses"
+    ],
+    "Why2": [
+      "Deliver on time",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "IT Support",
+      "text": "IT Support We know that businesses have different needs when it comes to IT support. Whether it be ad-hoc time-billed services, all-you-can-eat fixed monthly fee managed services or a pre-paid hourly package Sapphire Computing Solutions will work with you to tailor support services that make sense for your business.​ And we throw in reliability, dependability and accountability at no extra cost."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Security",
+      "text": "An IT security breach can destroy your business. Protecting your critical business systems, applications and data with Sapphire’s Protection Package will help you minimise your risk. Our package includes anti-virus and anti-malware, email and anti-spam protection and network protection. Add to this remote monitoring for security incidents and events and you have a solid defence-in-depth protection package."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Business Continuity",
+      "text": "A hardware failure, natural disaster or a virus can put your valuable data and your business at risk. We'll make sure your data is backed up and available when you need it. So, if you have a real disaster, we'll be there to help you with rapid system recovery and minimal data loss. In short, peace of mind. Our service includes on-site and off-site backup, server failover and redundancy and internet connection redundancy"
+    },
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Helpdesk",
+      "text": "Helpdesk When you need IT support, we're here to help.  We're just a phone call away. If we can resolve your IT issue remotely, we'll get it done right away. For those issues that can't be resolved remotely, we'll come on-site as quickly as we can. Our Australian helpdesk is manned by qualified IT staff.Using best-of-breed remote monitoring and management tools, we fix 95% of all support calls remotely. And almost all of the  support call problem tickets are fixed in real-time."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Internet & Networking",
+      "text": "Today's networks extend beyond routers and switches. Servers, Cloud, storage and even telephony are now part of the network. So they have to be reliable, secure and they must be fast. When it comes to networks, we've got you covered. We're your one-stop-shop for all your network needs from switches, routers, wireless, internet connections, private data networks, VPN's, VoIP, Cloud, storage - you name it. Adhering to our IT Services Framework, we'll help you with product selection, procurement, planning, deployment and support."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Hardware & Software",
+      "text": "Confused about which IT systems to purchase? We manage the entire product life cycle from needs analysis through product selection, from procurement to planning and deployment, from support to managed IT services to warranty and maintenance management.In the rapid move towards Cloud services such as Office 365, we will also manage your monthly or annual subscriptions."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Internet & Networking",
+      "text": "Today's networks extend beyond routers and switches. Servers, Cloud, storage and even telephony are now part of the network. So they have to be reliable, secure and they must be fast. When it comes to networks, we've got you covered. We're your one-stop-shop for all your network needs from switches, routers, wireless, internet connections, private data networks, VPN's, VoIP, Cloud, storage - you name it. Adhering to our IT Services Framework, we'll help you with product selection, procurement, planning, deployment and support."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Hardware & Software",
+      "text": "Confused about which IT systems to purchase? We manage the entire product life cycle from needs analysis through product selection, from procurement to planning and deployment, from support to managed IT services to warranty and maintenance management.In the rapid move towards Cloud services such as Office 365, we will also manage your monthly or annual subscriptions."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Sufyan",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Taha Ali",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Ali",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Amir",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "North Karachi Sindh Pakistan ",
+    "phone": "+92 3122747188",
+    "phone2": "+92 3120802057",
+    "email": "tahamiroutsourcing@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com",
+    "whatsapp": "whatsapp.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Application Development",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "CCTV",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "IT Services",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "IT Management",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
