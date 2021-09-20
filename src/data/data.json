@@ -20,44 +20,44 @@
   },
   "Services": [
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-cogs",
       "name": "IT Support",
       "text": "IT Support We know that businesses have different needs when it comes to IT support. Whether it be ad-hoc time-billed services, all-you-can-eat fixed monthly fee managed services or a pre-paid hourly package Sapphire Computing Solutions will work with you to tailor support services that make sense for your business.​ And we throw in reliability, dependability and accountability at no extra cost."
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-shield",
       "name": "Security",
       "text": "An IT security breach can destroy your business. Protecting your critical business systems, applications and data with Sapphire’s Protection Package will help you minimise your risk. Our package includes anti-virus and anti-malware, email and anti-spam protection and network protection. Add to this remote monitoring for security incidents and events and you have a solid defence-in-depth protection package."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Business Continuity",
-      "text": "A hardware failure, natural disaster or a virus can put your valuable data and your business at risk. We'll make sure your data is backed up and available when you need it. So, if you have a real disaster, we'll be there to help you with rapid system recovery and minimal data loss. In short, peace of mind. Our service includes on-site and off-site backup, server failover and redundancy and internet connection redundancy"
+      "icon": "fa fa-language",
+      "name": "Hardware & Software",
+      "text": "Confused about which IT systems to purchase? We manage the entire product life cycle from needs analysis through product selection, from procurement to planning and deployment, from support to managed IT services to warranty and maintenance management.In the rapid move towards Cloud services such as Office 365, we will also manage your monthly or annual subscriptions."
     },
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-life-ring",
       "name": "Helpdesk",
       "text": "Helpdesk When you need IT support, we're here to help.  We're just a phone call away. If we can resolve your IT issue remotely, we'll get it done right away. For those issues that can't be resolved remotely, we'll come on-site as quickly as we can. Our Australian helpdesk is manned by qualified IT staff.Using best-of-breed remote monitoring and management tools, we fix 95% of all support calls remotely. And almost all of the  support call problem tickets are fixed in real-time."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Internet & Networking",
-      "text": "Today's networks extend beyond routers and switches. Servers, Cloud, storage and even telephony are now part of the network. So they have to be reliable, secure and they must be fast. When it comes to networks, we've got you covered. We're your one-stop-shop for all your network needs from switches, routers, wireless, internet connections, private data networks, VPN's, VoIP, Cloud, storage - you name it. Adhering to our IT Services Framework, we'll help you with product selection, procurement, planning, deployment and support."
+      "icon": "fa fa-plane",
+      "name": "Solar Power Systems",
+      "text": "Tahamir Solar offers complete solar panel kits that include everything you need for a solar system. Browse complete solar systems and backup power kits for homes, businesses,  remote industrial, and more."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Hardware & Software",
-      "text": "Confused about which IT systems to purchase? We manage the entire product life cycle from needs analysis through product selection, from procurement to planning and deployment, from support to managed IT services to warranty and maintenance management.In the rapid move towards Cloud services such as Office 365, we will also manage your monthly or annual subscriptions."
+      "icon": "fa fa-camera",
+      "name": "Security Cameras",
+      "text": "Tahamir Security provides a comprehensive selection of the latest video security cameras with an even larger suite of features to guarantee that we have the right camera for the right places to monitor your facility at any time of day or night and in any weather condition."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Internet & Networking",
-      "text": "Today's networks extend beyond routers and switches. Servers, Cloud, storage and even telephony are now part of the network. So they have to be reliable, secure and they must be fast. When it comes to networks, we've got you covered. We're your one-stop-shop for all your network needs from switches, routers, wireless, internet connections, private data networks, VPN's, VoIP, Cloud, storage - you name it. Adhering to our IT Services Framework, we'll help you with product selection, procurement, planning, deployment and support."
+      "icon": "fa fa-wifi",
+      "name": "IOT",
+      "text": "The Internet of Things describes physical objects, that are embedded with sensors, processing ability, software, and other technologies, and that connect and exchange data with other devices and systems over the Internet or other communications networks."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Hardware & Software",
-      "text": "Confused about which IT systems to purchase? We manage the entire product life cycle from needs analysis through product selection, from procurement to planning and deployment, from support to managed IT services to warranty and maintenance management.In the rapid move towards Cloud services such as Office 365, we will also manage your monthly or annual subscriptions."
+      "icon": "fa fa-mobile",
+      "name": "Mobile & Web Application",
+      "text": "We’re highly proficient in engineering custom-built Android, iOS, and Windows mobile apps that all incorporate all of your essential & custom-tailored business requirements at affordable rates."
     }
   ],
   "Testimonials": [
@@ -95,23 +95,23 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "Sufyan",
-      "job": "Director"
+      "name": "Waqas Ali",
+      "job": "Electronic Engineer"
     },
     {
       "img": "img/team/02.jpg",
       "name": "Taha Ali",
-      "job": "Senior Designer"
+      "job": "Managing Director"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Ali",
-      "job": "Senior Designer"
+      "name": "shoaib",
+      "job": "Software Engineer"
     },
     {
       "img": "img/team/04.jpg",
       "name": "Amir",
-      "job": "Project Manager"
+      "job": "CEO"
     }
   ],
   "Contact": {
