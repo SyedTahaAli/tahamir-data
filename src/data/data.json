@@ -13,9 +13,9 @@
     ],
     "Why2": [
       "Deliver on time",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Smart quality assurance",
+      "Smooth application maintenance",
+      "Early detection of defects"
     ]
   },
   "Services": [
@@ -35,7 +35,7 @@
       "text": "Confused about which IT systems to purchase? We manage the entire product life cycle from needs analysis through product selection, from procurement to planning and deployment, from support to managed IT services to warranty and maintenance management.In the rapid move towards Cloud services such as Office 365, we will also manage your monthly or annual subscriptions."
     },
     {
-      "icon": "fa fa-life-ring",
+      "icon": "fa fa-headphones",
       "name": "Helpdesk",
       "text": "Helpdesk When you need IT support, we're here to help.  We're just a phone call away. If we can resolve your IT issue remotely, we'll get it done right away. For those issues that can't be resolved remotely, we'll come on-site as quickly as we can. Our Australian helpdesk is manned by qualified IT staff.Using best-of-breed remote monitoring and management tools, we fix 95% of all support calls remotely. And almost all of the  support call problem tickets are fixed in real-time."
     },
@@ -56,66 +56,61 @@
     },
     {
       "icon": "fa fa-mobile",
-      "name": "Mobile & Web Application",
+      "name": "Mobile & Web Development",
       "text": "We’re highly proficient in engineering custom-built Android, iOS, and Windows mobile apps that all incorporate all of your essential & custom-tailored business requirements at affordable rates."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Tahamir solar panel installation for me. I honestly think I’d still be out there searching for a whole home solar system if it weren’t for them.\"",
+      "name": "Sami"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"I would definitely recommend this company to anyone considering residential solar. My home solar power system is more than I ever expected.\"",
+      "name": "Keith"
     },
     {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Everytime I call for assistance, everyone I speak to is very helpful and knowledgeable. I appreciate it!!!.\"",
+      "name": "Arsalan"
     }
   ],
   "Team": [
-    {
-      "img": "img/team/01.jpg",
-      "name": "Waqas Ali",
-      "job": "Electronic Engineer"
-    },
     {
       "img": "img/team/02.jpg",
       "name": "Taha Ali",
       "job": "Managing Director"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "shoaib",
-      "job": "Software Engineer"
-    },
-    {
       "img": "img/team/04.jpg",
       "name": "Amir",
       "job": "CEO"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Sufyan Khan",
+      "job": "Opensource TeamLead"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Muzamil",
+      "job": "SEO"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Waqas Ali",
+      "job": "Electronic Engineer"
+    },
+    {
+      "img": "img/team/06.jpg",
+      "name": "waleed",
+      "job": "Backup Support Engineer"
     }
   ],
   "Contact": {
-    "address": "North Karachi Sindh Pakistan ",
+    "address": "Karachi Sindh Pakistan ",
     "phone": "+92 3122747188",
     "phone2": "+92 3120802057",
     "email": "tahamiroutsourcing@gmail.com",

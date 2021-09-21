@@ -7,8 +7,8 @@ export const Gallery = (props) => {
         <div className='section-title'>
           <h2>Gallery</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            TahAmir OutSourcing Solution Company which is 24/7 Remote Supports available team.
+            Gallery shows to we are providing as a IT related services same as mentioned below.
           </p>
         </div>
         <div className='row'>
@@ -107,7 +107,7 @@ export const Gallery = (props) => {
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
-                      <h4>Adipiscing Elit</h4>
+                      <h4>Security Cameras</h4>
                     </div>
                     <img
                       src='img/portfolio/05-small.jpg'
@@ -191,7 +191,7 @@ export const Gallery = (props) => {
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
-                      <h4>Adipiscing Elit</h4>
+                      <h4>Internet of things</h4>
                     </div>
                     <img
                       src='img/portfolio/09-small.jpg'

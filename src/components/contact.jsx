@@ -100,7 +100,7 @@ export const Contact = (props) => {
               <h3>Contact Info</h3>
               <p>
                 <span>
-                  <i className='fa fa-map-marker'></i> TahAmir Outsourcing
+                  <i className='fa fa-map-marker'></i> TahAmir OS
                 </span>
                 {props.data ? props.data.address : 'loading'}
               </p>
@@ -161,7 +161,7 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2021 Design by Taha Ali.{' '}
+            &copy; 2020 Design by Taha Ali.{' '}
             <a href='#' rel='nofollow'>
 
             </a>
