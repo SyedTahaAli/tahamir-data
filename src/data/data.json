@@ -79,12 +79,12 @@
   ],
   "Team": [
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/01.jpg",
       "name": "Taha Ali",
       "job": "Managing Director"
     },
     {
-      "img": "img/team/04.jpg",
+      "img": "img/team/02.jpg",
       "name": "Amir",
       "job": "CEO"
     },
@@ -94,7 +94,12 @@
       "job": "Opensource TeamLead"
     },
     {
-      "img": "img/team/06.jpg",
+      "img": "img/team/04.jpg",
+      "name": "Shoaib",
+      "job": "Software Engineer"
+    },
+    {
+      "img": "img/team/05.jpg",
       "name": "waleed",
       "job": "Backup Support Engineer"
     }
