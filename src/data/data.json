@@ -4,7 +4,7 @@
     "paragraph": "We look after the IT systems your business depends on for success. Providing the critical balance of cost effective solutions while staying ahead of advancing technology. "
   },
   "About": {
-    "paragraph": "For the past 2 years, TahAmit Outsourcing Solutions has looked after our client's IT needs so they can focus on building their business. Our methodology is simple - we listen, we deliver, we care and we are here to support you. As your trusted advisor, we will help you make the right IT investment decisions. As your IT solution partner, we will plan and roll out the IT systems that power your business. As your managed services provider, we'll take care of your IT systems, network, cloud and security with a package that meets your budget. And our team is simply a phone call away when you need our help. In short, we make IT work for you.",
+    "paragraph": "For the past 2 years, TahAmir Outsourcing Solutions has looked after our client's IT needs so they can focus on building their business. Our methodology is simple - we listen, we deliver, we care and we are here to support you. As your trusted advisor, we will help you make the right IT investment decisions. As your IT solution partner, we will plan and roll out the IT systems that power your business. As your managed services provider, we'll take care of your IT systems, network, cloud and security with a package that meets your budget. And our team is simply a phone call away when you need our help. In short, we make IT work for you.",
     "Why": [
       "Secure and Stable Networks",
       "Quality Service",
@@ -62,14 +62,19 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
+      "img": "img/testimonials/05.jpg",
       "text": "\"Tahamir solar panel installation for me. I honestly think I’d still be out there searching for a whole home solar system if it weren’t for them.\"",
-      "name": "Sami"
+      "name": "Naeem"
     },
     {
       "img": "img/testimonials/03.jpg",
       "text": "\"I would definitely recommend this company to anyone considering residential solar. My home solar power system is more than I ever expected.\"",
-      "name": "Keith"
+      "name": "Shahmeer"
+    },
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Tahamir Security camera installation for bsoft-technologies. I honestly think I’d still be out there searching for a whole office camera system if it weren’t for them.\"",
+      "name": "Fawad Ashfaq"
     },
     {
       "img": "img/testimonials/02.jpg",
@@ -109,10 +114,10 @@
     "phone": "+92 3122747188",
     "phone2": "+92 3120802057",
     "email": "tahamiroutsourcing@gmail.com",
-    "facebook": "fb.com",
+    "facebook": "https://www.facebook.com/Tahamir-outsourcing-109102721449298",
     "twitter": "twitter.com",
     "youtube": "youtube.com",
-    "whatsapp": "whatsapp.com"
+    "whatsapp": "https://web.whatsapp.com"
   },
   "Features": [
     {
